@@ -6,3 +6,11 @@ root: intro
 chapters:
 - file: markdown
 - file: notebooks
+- file: utils
+- file: logic/intro
+  sections:
+  - file: logic/propositions
+  - file: logic/operators
+  - file: logic/rules_of_inference
+  - file: logic/modal/intro.md
+  
